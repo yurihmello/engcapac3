@@ -1,0 +1,55 @@
+2020-10-05T22:45:16.039584+00:00 app[api]: Release v1 created by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T22:45:16.039584+00:00 app[api]: Initial release by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T22:45:17.120897+00:00 app[api]: Release v2 created by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T22:45:17.120897+00:00 app[api]: Enable Logplex by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T22:46:41.000000+00:00 app[api]: Build started by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T22:46:42.000000+00:00 app[api]: Build failed -- check your build output: https://dashboard.heroku.com/apps/ef012206-7193-47a5-8fa7-34dab0782fe6/activity/builds/b1e3e3e8-1d67-4b93-b56e-fec6971ac03a
+2020-10-05T23:29:32.000000+00:00 app[api]: Build started by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T23:29:57.042868+00:00 app[api]: Release v3 created by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T23:29:57.042868+00:00 app[api]: Deploy 17a0af1e by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T23:30:05.000000+00:00 app[api]: Build succeeded
+2020-10-05T23:30:43.733886+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=594fcbbe-e176-48cd-9fab-8ece3df9e368 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-05T23:30:44.535000+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=604b082d-1d50-4d60-9ff7-7aa6525d4d11 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-05T23:50:08.000000+00:00 app[api]: Build started by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T23:50:31.740987+00:00 app[api]: Release v4 created by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T23:50:31.740987+00:00 app[api]: Deploy 32e36abb by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-05T23:50:40.000000+00:00 app[api]: Build succeeded
+2020-10-05T23:51:36.779016+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=b901d08d-2dae-400a-818d-c12922c1ab1e fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-05T23:51:37.520910+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=67885e41-a1f8-49bb-87a1-75fa8bb3f9ed fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-05T23:53:32.727647+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=4868a13b-4291-401a-97bc-5ca64e9953f3 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-05T23:53:33.545394+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=66f90991-346f-4d81-8132-216021cbe48b fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:00:49.754006+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=691ab27f-b385-4346-8d64-664f8c30a04c fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:00:50.296033+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=780b7e54-e21a-4d72-ba23-20ffcf7e359d fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:05:22.000000+00:00 app[api]: Build started by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:05:45.675451+00:00 app[api]: Release v5 created by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:05:45.675451+00:00 app[api]: Deploy edd3da89 by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:05:54.000000+00:00 app[api]: Build succeeded
+2020-10-06T00:07:50.896753+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=7e97acbb-fd89-42fc-a043-f5bed7236ced fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:07:52.789418+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=a4cc2f73-4d1f-432a-822a-701e647041ee fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:21:22.000000+00:00 app[api]: Build started by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:21:45.106894+00:00 app[api]: Deploy 8c659b64 by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:21:45.106894+00:00 app[api]: Release v6 created by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:21:53.000000+00:00 app[api]: Build succeeded
+2020-10-06T00:22:15.365463+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=5dd45e02-3271-46f3-94b4-7f8d649c4d86 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:22:16.088520+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=b185f3e7-2a04-4ede-a331-cd3b7b211d34 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:27:30.076952+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=be035edc-2d37-497e-adba-4d09ef186842 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:27:31.277201+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=56e2d137-ea36-41d0-943c-ab1dea619c33 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:39:37.046661+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/" host=ecacy3.herokuapp.com request_id=a97d6635-b9ff-4193-b367-bb9fd8774279 fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:39:37.766657+00:00 heroku[router]: at=error code=H14 desc="No web processes running" method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=5f2d41c6-46c1-4301-82ad-bbdad9bd4b6c fwd="179.99.30.95" dyno= connect= service= status=503 bytes= protocol=https
+2020-10-06T00:44:26.000000+00:00 app[api]: Build started by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:44:49.495221+00:00 app[api]: Deploy b1643cc8 by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:44:49.495221+00:00 app[api]: Release v7 created by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:44:49.513661+00:00 app[api]: Scaled to web@1:Free by user yuri.stopa@aluno.faculdadeimpacta.com.br
+2020-10-06T00:44:53.623971+00:00 heroku[web.1]: Starting process with command `python primos.py`
+2020-10-06T00:44:57.688959+00:00 app[web.1]: * Serving Flask app "primos" (lazy loading)
+2020-10-06T00:44:57.688971+00:00 app[web.1]: * Environment: production
+2020-10-06T00:44:57.689006+00:00 app[web.1]: WARNING: Do not use the development server in a production environment.
+2020-10-06T00:44:57.689086+00:00 app[web.1]: Use a production WSGI server instead.
+2020-10-06T00:44:57.689153+00:00 app[web.1]: * Debug mode: off
+2020-10-06T00:44:57.726590+00:00 app[web.1]: * Running on http://0.0.0.0:36977/ (Press CTRL+C to quit)
+2020-10-06T00:44:58.000000+00:00 app[api]: Build succeeded
+2020-10-06T00:44:58.276129+00:00 heroku[web.1]: State changed from starting to up
+2020-10-06T00:45:11.379139+00:00 app[web.1]: 10.183.68.6 - - [06/Oct/2020 00:45:11] "GET / HTTP/1.1" 200 -
+2020-10-06T00:45:11.383491+00:00 heroku[router]: at=info method=GET path="/" host=ecacy3.herokuapp.com request_id=679848fb-81ca-469a-af16-1f270d8ddd21 fwd="179.99.30.95" dyno=web.1 connect=1ms service=14ms status=200 bytes=526 protocol=https
+2020-10-06T00:45:11.862058+00:00 app[web.1]: 10.183.68.6 - - [06/Oct/2020 00:45:11] "GET /favicon.ico HTTP/1.1" 404 -
+2020-10-06T00:45:11.865968+00:00 heroku[router]: at=info method=GET path="/favicon.ico" host=ecacy3.herokuapp.com request_id=b2a6797b-1860-4f01-b3c5-73e0024bbcad fwd="179.99.30.95" dyno=web.1 connect=1ms service=36ms status=404 bytes=379 protocol=https
