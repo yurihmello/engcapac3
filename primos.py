@@ -14,7 +14,7 @@ def nao_entre_em_panico():
 
     primos = "2,"
 
-    while p< limite:
+    while p < limite:
         ehprimo = 1
         for i in range(2, numero):
             if numero % i == 0:
@@ -23,5 +23,6 @@ def nao_entre_em_panico():
         if (ehprimo):
             primos = primos + str(numero) + ","
             p += 1
+        numero+=1
 
     return primos
